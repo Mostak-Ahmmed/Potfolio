@@ -2,7 +2,7 @@
 
 A fully responsive and interactive personal portfolio website built using **HTML5**, **CSS3**, **JavaScript**, and **jQuery**. It highlights my skills, projects, experience, and education in a clean, modern design.
 
-🌐 **Live Preview**: [Visit Now](https://MostakAhmmed.netlify.app)
+🌐 **Live Preview**: [Visit Now](https://mostak-ahmmed.github.io/Potfolio/)
 
 ---
 
